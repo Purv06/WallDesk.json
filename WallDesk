@@ -594,7 +594,7 @@
 	    },
 	    {
 	      "author": "Raj Arya",
-	      "url": "hhttps://raw.githubusercontent.com/Purv06/WallDesk.json/main/Amoled/14_20220708_010104_0013.png",
+	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Amoled/14_20220708_010104_0013.png",
 	      "name": "Amoled 2",
 	      "collections": "Amoled"
 	    },
@@ -602,7 +602,8 @@
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Amoled/14_20220709_003708_0013.png",
 	      "name": "Amoled 3",
-	      "collections": "Amoled"
+	      "collections": "Amoled",
+	      "thumbnail": "https://raw.githubusercontent.com/Purv06/Monochrome.json/main/-6307725980818582761_121.jpg"
 	    },
 	    {
 	      "author": "Raj Arya",
@@ -626,7 +627,8 @@
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Amoled/18_20220911_004848_0017.png",
 	      "name": "Amoled 7",
-	      "collections": "Amoled"
+	      "collections": "Amoled",
+	      "thumbnail": "https://raw.githubusercontent.com/Purv06/Monochrome.json/main/-6307725980818582761_121.jpg"
 	    },
 	{
 	      "author": "Raj Arya",
@@ -638,13 +640,15 @@
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Amoled/20_20220516_012746_0019.png",
 	      "name": "Amoled 9",
-	      "collections": "Amoled"
+	      "collections": "Amoled",
+	      "thumbnail": "https://raw.githubusercontent.com/Purv06/Monochrome.json/main/-6307725980818582761_121.jpg"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Amoled/21_20220907_004802_0020.png",
 	      "name": "Amoled 10",
-	      "collections": "Amoled"
+	      "collections": "Amoled",
+	      "thumbnail": "https://raw.githubusercontent.com/Purv06/Monochrome.json/main/-6307725980818582761_121.jpg"
 	    },
 	    {
 	      "author": "Raj Arya",
