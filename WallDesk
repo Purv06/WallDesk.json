@@ -2478,5 +2478,35 @@
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Windows/43_20220911_004848_0042.png",
 	      "name": "Windows 2",
 	      "collections": "Windows"
+	    },
+	    {
+	      "author": "Raj Arya",
+	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Windows/1_20221130_131020_0000.png",
+	      "name": "Windows 3",
+	      "collections": "Windows"
+	    },
+	    {
+	      "author": "Raj Arya",
+	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Windows/2_20221130_131020_0001.png",
+	      "name": "Windows 4",
+	      "collections": "Windows"
+	    },
+	    {
+	      "author": "Raj Arya",
+	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Windows/3_20221130_131020_0002.png",
+	      "name": "Windows 5",
+	      "collections": "Windows"
+	    },
+	    {
+	      "author": "Raj Arya",
+	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Windows/6_20221130_131020_0005.png",
+	      "name": "Windows 6",
+	      "collections": "Windows"
+	    },
+	    {
+	      "author": "Raj Arya",
+	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Windows/7_20221130_131020_0006.png",
+	      "name": "Windows 7",
+	      "collections": "Windows"
 	    }
 ]
