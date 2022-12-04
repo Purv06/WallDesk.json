@@ -68,8 +68,7 @@
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Abstract/23_20220709_003708_0022.png",
 	      "name": "Abstract 11",
 	      "collections": "Abstract"
-	    },
-	    
+	    },	    
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Abstract/24_20220708_221415_0023.png",
@@ -81,12 +80,6 @@
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Abstract/25_20220708_221415_0024.png",
 	      "name": "Abstract 13",
 	      "collections": "Abstract"
-	    },
-	    {
-	      "author": "Raj Arya",
-	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Abstract/25_20220908_011818_0024.png",
-	      "name": "Vivid 1",
-	      "collections": "Vivid"
 	    },
 	    {
 	      "author": "Raj Arya",
@@ -109,40 +102,10 @@
 	    },
 	    {
 	      "author": "Raj Arya",
-	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Abstract/26_20220908_011818_0025.png",
-	      "name": "Vivid 2",
-	      "collections": "Vivid"
-	    },
-	    {
-	      "author": "Raj Arya",
-	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Abstract/26_20220911_004848_0025.png",
-	      "name": "Vivid 3",
-	      "collections": "Vivid"
-	    },
-	    {
-	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Abstract/27_20220709_030533_0026.png",
 	      "name": "Abstract 17",
 	      "collections": "Abstract"
-	    },
-	    {
-	      "author": "Raj Arya",
-	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Abstract/27_20220908_011818_0026.png",
-	      "name": "Vivid 4",
-	      "collections": "Vivid"
-	    },
-	    {
-	      "author": "Raj Arya",
-	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Abstract/28_20220908_011818_0027.png",
-	      "name": "Vivid 5",
-	      "collections": "Vivid"
-	    },
-	    {
-	      "author": "Raj Arya",
-	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Abstract/29_20220908_011818_0028.png",
-	      "name": "Vivid 6",
-	      "collections": "Vivid"
-	    },
+	    },	    
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Abstract/2_20220518_015725_0001.png",
@@ -169,12 +132,6 @@
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Abstract/20_20220911_004848_0019.png",
 	      "name": "Abstract 21",
 	      "collections": "Abstract"
-	    },
-	    {
-	      "author": "Raj Arya",
-	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Abstract/30_20220908_011818_0029.png",
-	      "name": "Vivid 7",
-	      "collections": "Vivid"
 	    },
 	    {
 	      "author": "Raj Arya",
@@ -348,9 +305,7 @@
 	      "name": "Abstract 48",
 	      "collections": "Abstract",
 	      "thumbnail": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Abstract/5.png"
-	      
-	    },
-	    	    
+	    },	    	    
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Abstract/6_20220708_221415_0005.png",
@@ -643,32 +598,32 @@
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Amoled/41_20220516_012746_0040.png",
-	      "name": "Amoled 20",
+	      "name": "Amoled 17",
 	      "collections": "Amoled"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Amoled/47_20220516_012746_0046.png",
-	      "name": "Amoled 21",
+	      "name": "Amoled 18",
 	      "collections": "Amoled"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Amoled/48_20220516_012746_0047.png",
-	      "name": "Amoled 22",
+	      "name": "Amoled 19",
 	      "collections": "Amoled"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Abstract/39_20220516_012746_0038.png",
-	      "name": "Amoled 23",
+	      "name": "Amoled 20",
 	      "collections": "Amoled",
 	      "thumbnail": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Abstract/39.png"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Abstract/40_20220516_012746_0039.png",
-	      "name": "Amoled 24",
+	      "name": "Amoled 21",
 	      "collections": "Amoled",
 	      "thumbnail": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Abstract/40.png"
 	    },
@@ -1230,19 +1185,19 @@
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Mesh%20Gradients/28_20220709_030533_0027.png",
-	      "name": "Glassmorphism 25",
+	      "name": "Glassmorphism 23",
 	      "collections": "Glassmorphism"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Mesh%20Gradients/30_20220709_030533_0029.png",
-	      "name": "Glassmorphism 26",
+	      "name": "Glassmorphism 24",
 	      "collections": "Glassmorphism"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Mesh%20Gradients/31_20220709_030533_0030.png",
-	      "name": "Glassmorphism 27",
+	      "name": "Glassmorphism 25",
 	      "collections": "Glassmorphism"
 	    },
 	    {
@@ -1390,45 +1345,45 @@
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Mesh%20Gradients/32_20220708_221415_0031.png",
-	      "name": "Gradients 8",
+	      "name": "Gradients 5",
 	      "collections": "Gradients"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Mesh%20Gradients/36_20220911_004848_0035.png",
-	      "name": "Gradients 9",
+	      "name": "Gradients 6",
 	      "collections": "Gradients"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Mesh%20Gradients/3_20220518_015725_0002.png",
-	      "name": "Gradients 10",
+	      "name": "Gradients 7",
 	      "collections": "Gradients",
 	      "thumbnail": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Mesh%20Gradients/3.png"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Mesh%20Gradients/51_20220709_030533_0050.png",
-	      "name": "Gradients 11",
+	      "name": "Gradients 8",
 	      "collections": "Gradients",
 	      "thumbnail": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Mesh%20Gradients/51.png"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Mesh%20Gradients/6_20220518_015725_0005.png",
-	      "name": "Gradients 12",
+	      "name": "Gradients 9",
 	      "collections": "Gradients"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Mesh%20Gradients/75_20220709_030533_0074.png",
-	      "name": "Gradients 13",
+	      "name": "Gradients 10",
 	      "collections": "Gradients"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Mesh%20Gradients/8_20220516_012746_0007.png",
-	      "name": "Gradients 14",
+	      "name": "Gradients 11",
 	      "collections": "Gradients"
 	    },
 	    {
@@ -1518,187 +1473,187 @@
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Nature/13_20221129_002305_0012.png",
-	      "name": "Nature & Mountain 6",
+	      "name": "Nature & Mountain 4",
 	      "collections": "Nature & Mountain"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Nature/14_20221129_002305_0013.png",
-	      "name": "Nature & Mountain 7",
+	      "name": "Nature & Mountain 5",
 	      "collections": "Nature & Mountain"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Nature/15_20221129_002305_0014.png",
-	      "name": "Nature & Mountain 8",
+	      "name": "Nature & Mountain 6",
 	      "collections": "Nature & Mountain"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Nature/16_20221129_002305_0015.png",
-	      "name": "Nature & Mountain 9",
+	      "name": "Nature & Mountain 7",
 	      "collections": "Nature & Mountain"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Nature/17_20221129_002305_0016.png",
-	      "name": "Nature & Mountain 10",
+	      "name": "Nature & Mountain 8",
 	      "collections": "Nature & Mountain"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Nature/18_20221129_002305_0017.png",
-	      "name": "Nature & Mountain 11",
+	      "name": "Nature & Mountain 9",
 	      "collections": "Nature & Mountain"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Nature/19_20221129_002305_0018.png",
-	      "name": "Nature & Mountain 12",
+	      "name": "Nature & Mountain 10",
 	      "collections": "Nature & Mountain"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Nature/1_20221129_002305_0000.png",
-	      "name": "Nature & Mountain 13",
+	      "name": "Nature & Mountain 11",
 	      "collections": "Nature & Mountain"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Nature/20_20221129_002305_0019.png",
-	      "name": "Nature & Mountain 14",
+	      "name": "Nature & Mountain 12",
 	      "collections": "Nature & Mountain"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Nature/21_20221129_002305_0020.png",
-	      "name": "Nature & Mountain 15",
+	      "name": "Nature & Mountain 13",
 	      "collections": "Nature & Mountain"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Nature/22_20221129_002305_0021.png",
-	      "name": "Nature & Mountain 16",
+	      "name": "Nature & Mountain 14",
 	      "collections": "Nature & Mountain"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Nature/23_20221129_002305_0022.png",
-	      "name": "Nature & Mountain 17",
+	      "name": "Nature & Mountain 15",
 	      "collections": "Nature & Mountain"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Nature/24_20221129_002305_0023.png",
-	      "name": "Nature & Mountain 18",
+	      "name": "Nature & Mountain 16",
 	      "collections": "Nature & Mountain"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Nature/25_20221129_002305_0024.png",
-	      "name": "Nature & Mountain 19",
+	      "name": "Nature & Mountain 17",
 	      "collections": "Nature & Mountain"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Nature/26_20221129_002305_0025.png",
-	      "name": "Nature & Mountain 20",
+	      "name": "Nature & Mountain 18",
 	      "collections": "Nature & Mountain"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Nature/27_20221129_002305_0026.png",
-	      "name": "Nature & Mountain 21",
+	      "name": "Nature & Mountain 19",
 	      "collections": "Nature & Mountain"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Nature/28_20221129_002305_0027.png",
-	      "name": "Nature & Mountain 22",
+	      "name": "Nature & Mountain 20",
 	      "collections": "Nature & Mountain"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Nature/29_20221129_002305_0028.png",
-	      "name": "Nature & Mountain 23",
+	      "name": "Nature & Mountain 21",
 	      "collections": "Nature & Mountain"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Nature/2_20221129_002305_0001.png",
-	      "name": "Nature & Mountain 24",
+	      "name": "Nature & Mountain 22",
 	      "collections": "Nature & Mountain"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Nature/30_20221129_002305_0029.png",
-	      "name": "Nature & Mountain 25",
+	      "name": "Nature & Mountain 23",
 	      "collections": "Nature & Mountain"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Nature/31_20221129_002305_0030.png",
-	      "name": "Nature & Mountain 26",
+	      "name": "Nature & Mountain 24",
 	      "collections": "Nature & Mountain"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Nature/32_20221129_002305_0031.png",
-	      "name": "Nature & Mountain 27",
+	      "name": "Nature & Mountain 25",
 	      "collections": "Nature & Mountain"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Nature/34_20221129_002305_0033.png",
-	      "name": "Nature & Mountain 28",
+	      "name": "Nature & Mountain 26",
 	      "collections": "Nature & Mountain"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Nature/35_20221129_002305_0034.png",
-	      "name": "Nature & Mountain 29",
+	      "name": "Nature & Mountain 27",
 	      "collections": "Nature & Mountain"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Nature/3_20221129_002305_0002.png",
-	      "name": "Nature & Mountain 30",
+	      "name": "Nature & Mountain 28",
 	      "collections": "Nature & Mountain"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Nature/4_20221129_002305_0003.png",
-	      "name": "Nature & Mountain 31",
+	      "name": "Nature & Mountain 29",
 	      "collections": "Nature & Mountain"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Nature/5_20221129_002305_0004.png",
-	      "name": "Nature & Mountain 32",
+	      "name": "Nature & Mountain 30",
 	      "collections": "Nature & Mountain"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Nature/6_20221129_002305_0005.png",
-	      "name": "Nature & Mountain 33",
+	      "name": "Nature & Mountain 31",
 	      "collections": "Nature & Mountain"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Nature/7_20221129_002305_0006.png",
-	      "name": "Nature & Mountain 34",
+	      "name": "Nature & Mountain 32",
 	      "collections": "Nature & Mountain"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Nature/8_20221129_002305_0007.png",
-	      "name": "Nature & Mountain 35",
+	      "name": "Nature & Mountain 33",
 	      "collections": "Nature & Mountain"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Nature/9_20221129_002305_0008.png",
-	      "name": "Nature & Mountain 36",
+	      "name": "Nature & Mountain 34",
 	      "collections": "Nature & Mountain"
 	    },
 	    {
@@ -1804,107 +1759,107 @@
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Particles/26_20220709_003708_0025.png",
-	      "name": "Particles 17",
+	      "name": "Particles 16",
 	      "collections": "Particles"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Particles/28_20220911_004848_0027.png",
-	      "name": "Particles 18",
+	      "name": "Particles 17",
 	      "collections": "Particles",
 	      "thumbnail": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Particles/28.png"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Particles/2_20220708_221415_0001.png",
-	      "name": "Particles 19",
+	      "name": "Particles 18",
 	      "collections": "Particles",
 	      "thumbnail": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Particles/2.png"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Particles/2_20220709_030533_0001.png",
-	      "name": "Particles 20",
+	      "name": "Particles 19",
 	      "collections": "Particles"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Particles/3_20220708_221415_0002.png",
-	      "name": "Particles 21",
+	      "name": "Particles 20",
 	      "collections": "Particles",
 	      "thumbnail": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Particles/3.png"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Particles/4_20220708_215001_0003.png",
-	      "name": "Particles 22",
+	      "name": "Particles 21",
 	      "collections": "Particles",
 	      "thumbnail": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Particles/4.1.png"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Particles/4_20220708_221415_0003.png",
-	      "name": "Particles 23",
+	      "name": "Particles 22",
 	      "collections": "Particles",
 	      "thumbnail": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Particles/4.png"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Particles/74_20220709_030533_0073.png",
-	      "name": "Particles 24",
+	      "name": "Particles 23",
 	      "collections": "Particles"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Particles/IMG_20220708_215202.png",
-	      "name": "Particles 25",
+	      "name": "Particles 24",
 	      "collections": "Particles",
 	      "thumbnail": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Particles/IMG_215202.png"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Particles/IMG_20220708_215328.png",
-	      "name": "Particles 26",
+	      "name": "Particles 25",
 	      "collections": "Particles",
 	      "thumbnail": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Particles/IMG_215328.png"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Particles/png_20220708_215457_0000.png",
-	      "name": "Particles 27",
+	      "name": "Particles 26",
 	      "collections": "Particles",
 	      "thumbnail": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Particles/png_0000.png"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Waves/18_20220708_010104_0017.png",
-	      "name": "Particles 28",
+	      "name": "Particles 27",
 	      "collections": "Particles"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Waves/19_20220516_012746_0018.png",
-	      "name": "Particles 29",
+	      "name": "Particles 28",
 	      "collections": "Particles",
 	      "thumbnail": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Waves/19.png"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Waves/11_20220709_003708_0010.png",
-	      "name": "Particles 30",
+	      "name": "Particles 29",
 	      "collections": "Particles",
 	      "thumbnail": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Waves/11.png"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Waves/15_20220708_010104_0014.png",
-	      "name": "Particles 31",
+	      "name": "Particles 30",
 	      "collections": "Particles"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Gaming/16_20220516_012746_0015.png",
-	      "name": "Particles 32",
+	      "name": "Particles 31",
 	      "collections": "Particles"
 	    },
 	    {
@@ -2164,62 +2119,103 @@
 	      "collections": "Text",
 	      "thumbnail": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Text/24.png"
 	    },
-
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Text/2_20221130_133000_0001.png",
-	      "name": "Text 6",
+	      "name": "Text 4",
 	      "collections": "Text",
 	      "thumbnail": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Text/Asset%206.png"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Text/3_20221130_133000_0002.png",
-	      "name": "Text 7",
+	      "name": "Text 5",
 	      "collections": "Text",
 	      "thumbnail": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Text/Asset%209.png"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Text/4_20221130_133000_0003.png",
-	      "name": "Text 8",
+	      "name": "Text 6",
 	      "collections": "Text",
 	      "thumbnail": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Text/Asset%2010.png"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Text/5_20221130_133000_0004.png",
-	      "name": "Text 9",
+	      "name": "Text 7",
 	      "collections": "Text",
 	      "thumbnail": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Text/Asset%203.png"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Text/6_20221130_133000_0005.png",
-	      "name": "Text 10",
+	      "name": "Text 8",
 	      "collections": "Text",
 	      "thumbnail": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Text/Asset%205.png"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Text/7_20221130_133000_0006.png",
-	      "name": "Text 11",
+	      "name": "Text 9",
 	      "collections": "Text",
 	      "thumbnail": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Text/Asset%204.png"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Text/Asset%201.png",
-	      "name": "Text 12",
+	      "name": "Text 10",
 	      "collections": "Text",
 	      "thumbnail": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Text/Asset%201c.png"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Text/Asset%202.png",
-	      "name": "Text 13",
+	      "name": "Text 11",
 	      "collections": "Text",
 	      "thumbnail": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Text/Asset%202c.png"
+	    },
+	    {
+	      "author": "Raj Arya",
+	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Abstract/25_20220908_011818_0024.png",
+	      "name": "Vivid 1",
+	      "collections": "Vivid"
+	    },
+	    {
+	      "author": "Raj Arya",
+	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Abstract/26_20220908_011818_0025.png",
+	      "name": "Vivid 2",
+	      "collections": "Vivid"
+	    },
+	    {
+	      "author": "Raj Arya",
+	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Abstract/26_20220911_004848_0025.png",
+	      "name": "Vivid 3",
+	      "collections": "Vivid"
+	    },
+	    {
+	      "author": "Raj Arya",
+	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Abstract/27_20220908_011818_0026.png",
+	      "name": "Vivid 4",
+	      "collections": "Vivid"
+	    },
+	    {
+	      "author": "Raj Arya",
+	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Abstract/28_20220908_011818_0027.png",
+	      "name": "Vivid 5",
+	      "collections": "Vivid"
+	    },
+	    {
+	      "author": "Raj Arya",
+	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Abstract/29_20220908_011818_0028.png",
+	      "name": "Vivid 6",
+	      "collections": "Vivid"
+	    },
+	    {
+	      "author": "Raj Arya",
+	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Abstract/30_20220908_011818_0029.png",
+	      "name": "Vivid 7",
+	      "collections": "Vivid"
 	    },
 	    {
 	      "author": "Raj Arya",
@@ -2246,150 +2242,150 @@
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Waves/15_20220708_221415_0014.png",
-	      "name": "Waves 6",
+	      "name": "Waves 4",
 	      "collections": "Waves",
 	      "thumbnail": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Waves/15.png"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Waves/16_20220708_221415_0015.png",
-	      "name": "Waves 7",
+	      "name": "Waves 5",
 	      "collections": "Waves",
 	      "thumbnail": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Waves/16.png"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Waves/17_20220708_221415_0016.png",
-	      "name": "Waves 8",
+	      "name": "Waves 6",
 	      "collections": "Waves"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Waves/19_20220708_221415_0018.png",
-	      "name": "Waves 11",
+	      "name": "Waves 7",
 	      "collections": "Waves"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Waves/19_20220908_011818_0018.png",
-	      "name": "Waves 12",
+	      "name": "Waves 8",
 	      "collections": "Waves"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Waves/20_20220908_011818_0019.png",
-	      "name": "Waves 13",
+	      "name": "Waves 9",
 	      "collections": "Waves"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Waves/21_20220908_011818_0020.png",
-	      "name": "Waves 14",
+	      "name": "Waves 10",
 	      "collections": "Waves"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Waves/22_20220908_011818_0021.png",
-	      "name": "Waves 15",
+	      "name": "Waves 11",
 	      "collections": "Waves"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Waves/23_20220911_004848_0022.png",
-	      "name": "Waves 16",
+	      "name": "Waves 12",
 	      "collections": "Waves"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Waves/27_20220708_221415_0026.png",
-	      "name": "Waves 17",
+	      "name": "Waves 13",
 	      "collections": "Waves"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Waves/28_20220708_221415_0027.png",
-	      "name": "Waves 18",
+	      "name": "Waves 14",
 	      "collections": "Waves",
 	      "thumbnail": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Waves/28.png"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Waves/29_20220708_221415_0028.png",
-	      "name": "Waves 19",
+	      "name": "Waves 15",
 	      "collections": "Waves"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Waves/30_20220708_221415_0029.png",
-	      "name": "Waves 20",
+	      "name": "Waves 16",
 	      "collections": "Waves",
 	      "thumbnail": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Waves/30.png"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Waves/31_20220708_221415_0030.png",
-	      "name": "Waves 21",
+	      "name": "Waves 17",
 	      "collections": "Waves",
 	      "thumbnail": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Waves/31.1.png"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Waves/37_20220911_004848_0036.png",
-	      "name": "Waves 22",
+	      "name": "Waves 18",
 	      "collections": "Waves",
 	      "thumbnail": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Waves/37.png"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Waves/39_20220911_004848_0038.png",
-	      "name": "Waves 23",
+	      "name": "Waves 19",
 	      "collections": "Waves",
 	      "thumbnail": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Waves/39.png"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Waves/3_20220907_004802_0002.png",
-	      "name": "Waves 24",
+	      "name": "Waves 20",
 	      "collections": "Waves",
 	      "thumbnail": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Waves/3.png"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Waves/40_20220709_030533_0039.png",
-	      "name": "Waves 25",
+	      "name": "Waves 21",
 	      "collections": "Waves"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Waves/44_20220709_030533_0043.png",
-	      "name": "Waves 26",
+	      "name": "Waves 22",
 	      "collections": "Waves",
 	      "thumbnail": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Waves/44.png"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Waves/45_20220709_030533_0044.png",
-	      "name": "Waves 27",
+	      "name": "Waves 23",
 	      "collections": "Waves",
 	      "thumbnail": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Waves/45.png"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Waves/30_20220911_004848_0029.png",
-	      "name": "Waves 28",
+	      "name": "Waves 24",
 	      "collections": "Waves"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Waves/8_20220907_004802_0007.png",
-	      "name": "Waves 29",
+	      "name": "Waves 25",
 	      "collections": "Waves",
 	      "thumbnail": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Waves/8.png"
 	    },
 	    {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Waves/9_20220709_030533_0008.png",
-	      "name": "Waves 30",
+	      "name": "Waves 26",
 	      "collections": "Waves",
 	      "thumbnail": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Waves/9.png"
 	    },
