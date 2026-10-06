@@ -1,6 +1,14 @@
 [
   {
     "author": "Raj Arya",
+    "name": "Emerald Silk Flow",
+    "collections": "Fluids",
+    "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Fluids/scene_(3).png",
+    "thumbnail": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Thumbnail/thumb_scene_(3).jpg",
+    "featured": true
+  },
+  {
+    "author": "Raj Arya",
     "name": "Electric Midnight Glow",
     "collections": "Gradients",
     "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Gradients/Flux_Schnell_Create_a_glossy_dark_swirl_gradient_wallpaper_wit_0_upscayl_2x_upscayl-lite-4x.png",
