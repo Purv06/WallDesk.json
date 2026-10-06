@@ -9,6 +9,34 @@
   },
   {
     "author": "Raj Arya",
+    "name": "Velvet Shadows",
+    "collections": "Fluids",
+    "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Fluids/scene_(4).png",
+    "id": "e767eab539bced5574be52204da485ab899dd80b6ecb5ba636433d758cbfb55e"
+  },
+  {
+    "author": "Raj Arya",
+    "name": "Crimson Velvet Wave",
+    "collections": "Fluids",
+    "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Fluids/scene_(1).png",
+    "id": "4fd19f73943dfdb30018b585a61f046377135aadceee2c8ef7fea7d950868889"
+  },
+  {
+    "author": "Raj Arya",
+    "name": "Azure Silk Wave",
+    "collections": "Fluids",
+    "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Fluids/scene_(2).png",
+    "id": "2982950e6ed2788493b7e89a279d63ba50738d6ee7cf53d7546668d10e38e5ec"
+  },
+  {
+    "author": "Raj Arya",
+    "name": "Cerulean Silk Wave",
+    "collections": "Fluids",
+    "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Fluids/scene_(6).png",
+    "thumbnail": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Thumbnail/thumb_scene_(6).jpg"
+  },
+  {
+    "author": "Raj Arya",
     "name": "Velvet Fluid Dreams",
     "collections": "Amoled",
     "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Amoled/Untitled-1.png",
